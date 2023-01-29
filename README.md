@@ -1,4 +1,5 @@
 # Инструкция и бинды
+(скачайте этот файл и откройте тут все смешавается)
 Как установить кфг?
 Перенисите все файлы с расшерением .cfg в папку Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
